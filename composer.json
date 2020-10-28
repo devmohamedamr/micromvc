@@ -1,5 +1,5 @@
 {
-    "name": "mohamedamr/micromvc",
+    "name": "fs9/micromvc",
     "description": "micro mvc",
     "require": {
         "php": "^7.2",
@@ -12,7 +12,6 @@
     },
     "require": {
         "dcblogdev/pdo-wrapper": "^2.0",
-        "rakit/validation": "^1.4",
         "wixel/gump": "^1.12"
     }
 }
